@@ -1,0 +1,22 @@
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: red;
+}
+
+p {
+    font-family: 'Courier', sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: ;
+}
+
+a:hover {
+    color: green;
+}
+
+img {
+    width: 100%;
+}
